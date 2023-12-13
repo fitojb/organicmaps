@@ -199,6 +199,7 @@
 	<!-- E.g. "WiFi:No" -->
 	<string name="no_available">Hapana</string>
 	<string name="trip_finished">Umefika!</string>
+	<string name="dialog_routing_rebuild_from_current_location">Njia itaundwa upya kutokea kwenye sehemu yako la sasa</string>
 	<string name="ok">Sawa</string>
 	<!-- max. 10 symbols, both iOS and Android -->
 	<string name="sort">Ainisha…</string>
