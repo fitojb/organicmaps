@@ -10,6 +10,8 @@
 "make_a_u_turn":"Faça o retorno.",
 "go_straight":"Siga em frente.",
 "exit":"Pegue a saída.",
+"route_beginning":"Siga a rota destacada.",
+"route_recalculating":"Recalculando rota.",
 "onto":"para",
 "take_exit_number":"Pegue a saída",
 "destination":"Você chegará ao seu destino.",

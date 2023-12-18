@@ -10,6 +10,8 @@
 "make_a_u_turn":"Faites demi-tour.",
 "go_straight":"Continuez tout droit.",
 "exit":"Sortie.",
+"route_beginning":"Suivez l'itinéraire mis en évidence.",
+"route_recalculating":"Déroutement.",
 "onto":"sur",
 "take_exit_number":"Sortie sur",
 "destination":"Vous arriverez.",

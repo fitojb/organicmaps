@@ -10,6 +10,8 @@
 "make_a_u_turn":"Quay đầu.",
 "go_straight":"Đi thẳng.",
 "exit":"Lối thoát.",
+"route_beginning":"Đi theo tuyến đường được đánh dấu.",
+"route_recalculating":"Định tuyến lại.",
 "onto":"vào",
 "take_exit_number":"Lối thoát vào",
 "destination":"Bạn sẽ đến.",

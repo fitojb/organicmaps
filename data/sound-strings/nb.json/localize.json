@@ -10,6 +10,8 @@
 "make_a_u_turn":"Ta en U-sving.",
 "go_straight":"Fortsett rett fram.",
 "exit":"Ta avkjøringen.",
+"route_beginning":"Følg den uthevede ruten.",
+"route_recalculating":"Omdirigering.",
 "onto":"inn på",
 "take_exit_number":"Ta avkjøringen inn på",
 "destination":"Ankommer du.",

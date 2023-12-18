@@ -10,6 +10,8 @@
 "make_a_u_turn":"Tee U-käännös.",
 "go_straight":"Aja suoraan.",
 "exit":"Poistu.",
+"route_beginning":"Seuraa korostettua reittiä.",
+"route_recalculating":"Uudelleenreititys.",
 "onto":"tielle",
 "take_exit_number":"Poistu tielle",
 "destination":"Olet perillä.",

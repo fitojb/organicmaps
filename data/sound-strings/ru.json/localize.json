@@ -10,6 +10,8 @@
 "make_a_u_turn":"Развернитесь.",
 "go_straight":"Двигайтесь прямо.",
 "exit":"Съезд.",
+"route_beginning":"Следуйте по выделенному маршруту.",
+"route_recalculating":"Изменение маршрута.",
 "onto":"на",
 "take_exit_number":"Съезд на",
 "destination":"Вы прибудете в пункт назначения.",

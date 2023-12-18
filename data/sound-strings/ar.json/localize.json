@@ -10,6 +10,8 @@
 "make_a_u_turn":"إستدر للعودة.",
 "go_straight":"إستمر إلى الأمام.",
 "exit":"خروج.",
+"route_beginning":"اتبع الطريق المميز.",
+"route_recalculating":"إعادة التوجيه.",
 "onto":"إلى",
 "take_exit_number":"خروج إلى",
 "destination":"سوف تصل.",

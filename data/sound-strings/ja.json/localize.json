@@ -18,6 +18,8 @@
 "make_a_u_turn_street_verb":"後ろ方向して",
 "go_straight":"直進です。",
 "exit":"出口です",
+"route_beginning":"強調表示されたルートに従ってください。",
+"route_recalculating":"ルート変更。",
 "onto":"",
 "take_exit_number":"出口を出る",
 "take_exit_number_street_verb":"",

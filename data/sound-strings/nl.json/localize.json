@@ -22,6 +22,8 @@
 "make_a_u_turn":"Keer om.",
 "go_straight":"Rij rechtdoor.",
 "exit":"Verlaat.",
+"route_beginning":"Volg de gemarkeerde route.",
+"route_recalculating":"Omleiding.",
 "onto":"naar",
 "take_exit_number":"Verlaat naar",
 "take_exit_number_street_verb":"Neem",

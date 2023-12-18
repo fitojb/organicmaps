@@ -10,6 +10,8 @@
 "make_a_u_turn":"Norabidea aldaketa egin.",
 "go_straight":"Zuzen jarraitu.",
 "exit":"Irteera.",
+"route_beginning":"Jarraitu nabarmendutako ibilbidea.",
+"route_recalculating":"Desbideratzea.",
 "onto":"",
 "take_exit_number":"Irteera",
 "destination":"Zure helmugara iritsiko zara.",

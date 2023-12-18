@@ -10,6 +10,8 @@
 "make_a_u_turn":"Întoarceți-vă o sută optzeci de grade.",
 "go_straight":"Mergeți înainte.",
 "exit":"Ieșire.",
+"route_beginning":"Urmați traseul evidențiat.",
+"route_recalculating":"Redirecționare.",
 "onto":"pe",
 "take_exit_number":"Ieșire pe",
 "destination":"Veți sosi.",

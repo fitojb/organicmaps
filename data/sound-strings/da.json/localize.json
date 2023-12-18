@@ -10,6 +10,8 @@
 "make_a_u_turn":"Vend om.",
 "go_straight":"Fortsæt lige ud.",
 "exit":"Afkørsel.",
+"route_beginning":"Følg den fremhævede rute.",
+"route_recalculating":"Omdirigering.",
 "onto":"ad",
 "take_exit_number":"Afkørsel ad",
 "destination":"Ankommer du.",

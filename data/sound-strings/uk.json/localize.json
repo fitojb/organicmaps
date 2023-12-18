@@ -10,6 +10,8 @@
 "make_a_u_turn":"Зробіть розворот.",
 "go_straight":"Їдьте прямо.",
 "exit":"З'їзд.",
+"route_beginning":"Дотримуйтеся виділеного маршруту.",
+"route_recalculating":"Зміна маршруту.",
 "onto":"на",
 "take_exit_number":"З'їзд на",
 "destination":"Ви прибудете.",

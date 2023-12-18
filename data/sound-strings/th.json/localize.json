@@ -10,6 +10,8 @@
 "make_a_u_turn":"กลับรถ",
 "go_straight":"ตรงไป",
 "exit":"ทางออก.",
+"route_beginning":"ไปตามเส้นทางที่ไฮไลท์",
+"route_recalculating":"กำลังเปลี่ยนเส้นทาง",
 "onto":"เข้าสู่",
 "take_exit_number":"ทางออก เข้าสู่",
 "destination":"คุณจะถึง",

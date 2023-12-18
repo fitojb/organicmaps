@@ -10,6 +10,8 @@
 "make_a_u_turn":"यू-टर्न लें।",
 "go_straight":"सीधे चलें।",
 "exit":"बाहर जाएं.",
+"route_beginning":"हाइलाइट किए गए मार्ग का अनुसरण करें.",
+"route_recalculating":"पुनः रूटिंग.",
 "onto":"पर",
 "take_exit_number":"बाहर जाएं पर",
 "destination":"गंतव्य स्थान",

@@ -10,6 +10,8 @@
 "make_a_u_turn":"Развярніцеся.",
 "go_straight":"Рухайцеся прама.",
 "exit":"З'езд.",
+"route_beginning":"Ідзіце па вылучаным маршруце.",
+"route_recalculating":"Змена маршруту.",
 "onto":"на",
 "take_exit_number":"З'езд на",
 "destination":"Вы прыбудзеце ў пункт прызначэння.",

@@ -10,6 +10,8 @@
 "make_a_u_turn":"Feu un canvi de sentit.",
 "go_straight":"Seguiu tot recte.",
 "exit":"Sortida.",
+"route_beginning":"Seguiu la ruta destacada.",
+"route_recalculating":"Reorientació.",
 "onto":"onto",
 "take_exit_number":"Agafa la sortida",
 "destination":"Arribareu a la destinació.",

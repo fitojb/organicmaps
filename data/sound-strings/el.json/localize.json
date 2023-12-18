@@ -10,6 +10,8 @@
 "make_a_u_turn":"Κάντε στροφή 180 μοιρών.",
 "go_straight":"Συνεχίστε ευθεία.",
 "exit":"Εξοδος.",
+"route_beginning":"Ακολουθήστε την επισημασμένη διαδρομή.",
+"route_recalculating":"Αλλαγή δρομολόγησης.",
 "onto":"στην",
 "take_exit_number":"Εξοδος στην",
 "destination":"Θα φτάσετε.",

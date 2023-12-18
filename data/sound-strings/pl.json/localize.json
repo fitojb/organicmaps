@@ -10,6 +10,8 @@
 "make_a_u_turn":"Zawróć.",
 "go_straight":"Jedź prosto.",
 "exit":"Wybierz zjazd",
+"route_beginning":"Podążaj zaznaczoną trasą.",
+"route_recalculating":"Przekierowanie.",
 "onto":"na",
 "take_exit_number":"Wybierz zjazd",
 "destination":"Dotrzesz do celu.",

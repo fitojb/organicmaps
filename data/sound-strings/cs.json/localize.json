@@ -10,6 +10,8 @@
 "make_a_u_turn":"Otočte se do protisměru.",
 "go_straight":"Jeďte rovně.",
 "exit":"výstup.",
+"route_beginning":"Postupujte podle zvýrazněné trasy.",
+"route_recalculating":"Přesměrování.",
 "onto":"na",
 "take_exit_number":"výstup na",
 "destination":"Přijedete do cíle.",

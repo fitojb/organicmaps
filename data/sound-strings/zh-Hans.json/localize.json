@@ -10,6 +10,8 @@
 "make_a_u_turn":"掉头",
 "go_straight":"直行",
 "exit":"驶出",
+"route_beginning":"遵循突出显示的路线。",
+"route_recalculating":"重新路由。",
 "onto":"上",
 "take_exit_number":"驶出 上",
 "destination":"即将到达目的地",
