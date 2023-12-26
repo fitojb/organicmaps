@@ -2,12 +2,21 @@
 @import("../../clear/include/Roads_label.mapcss");
 
 
-/* 8.OTHERS ROADS 15-22 ZOOM */
-
 line|z13-[highway=track],
 line|z13-[highway=path],
 {text: name;text-color: @label_medium;text-halo-opacity: 0.8;text-halo-radius: 1;text-halo-color: @label_halo_light;}
 
 line|z13-15[highway=path],
 line|z13-15[highway=track],
+{font-size: 8;}
+
+
+line|z13-[piste:type=nordic],
+line|z13-[piste:type=hike],
+line|z13-[piste:type=skitour],
+{text: name; text-position: line; text-color: @label_medium; text-halo-opacity: 0.8; text-halo-radius: 1; text-halo-color: @label_halo_light;}
+
+line|z13-14[piste:type=nordic],
+line|z13-14[piste:type=hike],
+line|z13-14[piste:type=skitour],
 {font-size: 8;}
