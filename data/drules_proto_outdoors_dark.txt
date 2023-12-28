@@ -65091,12 +65091,83 @@ cont {
   }
 }
 cont {
+  name: "piste:type-connection"
+  element {
+    scale: 15
+    lines {
+      width: 1.4
+      color: 862076287
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 16
+    lines {
+      width: 1.6
+      color: 862076287
+      priority: 120
+    }
+  }
+  element {
+    scale: 17
+    lines {
+      width: 1.9
+      color: 862076287
+      priority: 120
+    }
+  }
+  element {
+    scale: 18
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+  }
+  element {
+    scale: 19
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+  }
+  element {
+    scale: 20
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+  }
+}
+cont {
   name: "piste:type-downhill"
+  element {
+    scale: 12
+    lines {
+      width: 1.0
+      color: 2573352319
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3009559935
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
   element {
     scale: 14
     lines {
-      width: 0.8
-      color: 1717714303
+      width: 1.4
+      color: 3009559935
       priority: 120
       cap: BUTTCAP
     }
@@ -65104,8 +65175,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1717714303
+      width: 2.2
+      color: 3009559935
       priority: 120
       cap: BUTTCAP
     }
@@ -65115,14 +65186,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1717714303
+      width: 2.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -65131,14 +65202,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -65147,14 +65218,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -65163,14 +65234,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -65179,14 +65250,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -65195,17 +65266,36 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
 }
 cont {
   name: "piste:type-downhill-advanced"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1713512994
+      color: 2569151010
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3005358626
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 3005358626
       priority: 120
       cap: BUTTCAP
     }
@@ -65213,8 +65303,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1713512994
+      width: 2.2
+      color: 3005358626
       priority: 120
       cap: BUTTCAP
     }
@@ -65224,14 +65314,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1713512994
+      width: 2.2
+      color: 3005358626
       priority: 120
     }
     path_text {
@@ -65240,14 +65330,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1713512994
+      width: 3.2
+      color: 3005358626
       priority: 120
     }
     path_text {
@@ -65256,14 +65346,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1713512994
+      width: 3.2
+      color: 3005358626
       priority: 120
     }
     path_text {
@@ -65272,14 +65362,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1713512994
+      width: 3.2
+      color: 3005358626
       priority: 120
     }
     path_text {
@@ -65288,14 +65378,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1713512994
+      width: 3.2
+      color: 3005358626
       priority: 120
     }
     path_text {
@@ -65304,17 +65394,154 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-advanced-area"
+  element {
+    scale: 13
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3642892834
+      priority: 15
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-area"
+  element {
+    scale: 13
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3647094143
+      priority: 15
     }
   }
 }
 cont {
   name: "piste:type-downhill-easy"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1712007163
+      color: 2567645179
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3003852795
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 3003852795
       priority: 120
       cap: BUTTCAP
     }
@@ -65322,8 +65549,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1712007163
+      width: 2.2
+      color: 3003852795
       priority: 120
       cap: BUTTCAP
     }
@@ -65333,14 +65560,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1712007163
+      width: 2.2
+      color: 3003852795
       priority: 120
     }
     path_text {
@@ -65349,14 +65576,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1712007163
+      width: 3.2
+      color: 3003852795
       priority: 120
     }
     path_text {
@@ -65365,14 +65592,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1712007163
+      width: 3.2
+      color: 3003852795
       priority: 120
     }
     path_text {
@@ -65381,14 +65608,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1712007163
+      width: 3.2
+      color: 3003852795
       priority: 120
     }
     path_text {
@@ -65397,14 +65624,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1712007163
+      width: 3.2
+      color: 3003852795
       priority: 120
     }
     path_text {
@@ -65413,17 +65640,95 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-easy-area"
+  element {
+    scale: 13
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3641387003
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3641387003
+      priority: 15
     }
   }
 }
 cont {
   name: "piste:type-downhill-expert"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1714631475
+      color: 2570269491
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3006477107
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 3006477107
       priority: 120
       cap: BUTTCAP
     }
@@ -65431,8 +65736,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1714631475
+      width: 2.2
+      color: 3006477107
       priority: 120
       cap: BUTTCAP
     }
@@ -65442,14 +65747,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1714631475
+      width: 2.2
+      color: 3006477107
       priority: 120
     }
     path_text {
@@ -65458,14 +65763,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3006477107
       priority: 120
     }
     path_text {
@@ -65474,14 +65779,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3006477107
       priority: 120
     }
     path_text {
@@ -65490,14 +65795,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3006477107
       priority: 120
     }
     path_text {
@@ -65506,14 +65811,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3006477107
       priority: 120
     }
     path_text {
@@ -65522,17 +65827,95 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-expert-area"
+  element {
+    scale: 13
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3644011315
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3644011315
+      priority: 15
     }
   }
 }
 cont {
   name: "piste:type-downhill-freeride"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1714631475
+      color: 2582553856
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3018761472
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 3018761472
       priority: 120
       cap: BUTTCAP
     }
@@ -65540,8 +65923,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1714631475
+      width: 2.2
+      color: 3018761472
       priority: 120
       cap: BUTTCAP
     }
@@ -65551,14 +65934,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1714631475
+      width: 2.2
+      color: 3018761472
       priority: 120
     }
     path_text {
@@ -65567,14 +65950,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3018761472
       priority: 120
     }
     path_text {
@@ -65583,14 +65966,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3018761472
       priority: 120
     }
     path_text {
@@ -65599,14 +65982,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3018761472
       priority: 120
     }
     path_text {
@@ -65615,14 +65998,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1714631475
+      width: 3.2
+      color: 3018761472
       priority: 120
     }
     path_text {
@@ -65631,17 +66014,36 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
 }
 cont {
   name: "piste:type-downhill-intermediate"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1727794715
+      color: 2583432731
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3019640347
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 3019640347
       priority: 120
       cap: BUTTCAP
     }
@@ -65649,8 +66051,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1727794715
+      width: 2.2
+      color: 3019640347
       priority: 120
       cap: BUTTCAP
     }
@@ -65660,14 +66062,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1727794715
+      width: 2.2
+      color: 3019640347
       priority: 120
     }
     path_text {
@@ -65676,14 +66078,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1727794715
+      width: 3.2
+      color: 3019640347
       priority: 120
     }
     path_text {
@@ -65692,14 +66094,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1727794715
+      width: 3.2
+      color: 3019640347
       priority: 120
     }
     path_text {
@@ -65708,14 +66110,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1727794715
+      width: 3.2
+      color: 3019640347
       priority: 120
     }
     path_text {
@@ -65724,14 +66126,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1727794715
+      width: 3.2
+      color: 3019640347
       priority: 120
     }
     path_text {
@@ -65740,17 +66142,95 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-intermediate-area"
+  element {
+    scale: 13
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3657174555
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3657174555
+      priority: 15
     }
   }
 }
 cont {
   name: "piste:type-downhill-novice"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 1.0
-      color: 1717562158
+      color: 2573200174
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 2153769774
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.4
+      color: 2153769774
       priority: 120
       cap: BUTTCAP
     }
@@ -65758,8 +66238,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1717562158
+      width: 2.2
+      color: 2153769774
       priority: 120
       cap: BUTTCAP
     }
@@ -65769,14 +66249,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1717562158
+      width: 2.2
+      color: 2153769774
       priority: 120
     }
     path_text {
@@ -65785,14 +66265,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1717562158
+      width: 3.2
+      color: 2153769774
       priority: 120
     }
     path_text {
@@ -65801,14 +66281,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1717562158
+      width: 3.2
+      color: 2153769774
       priority: 120
     }
     path_text {
@@ -65817,14 +66297,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1717562158
+      width: 3.2
+      color: 2153769774
       priority: 120
     }
     path_text {
@@ -65833,14 +66313,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1717562158
+      width: 3.2
+      color: 2153769774
       priority: 120
     }
     path_text {
@@ -65849,25 +66329,443 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-downhill-novice-area"
+  element {
+    scale: 13
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3227511598
+      priority: 15
+    }
+  }
+}
+cont {
+  name: "piste:type-hike"
+  element {
+    scale: 12
+    lines {
+      width: 1.1
+      color: 1298283903
+      dashdot {
+        dd: 3.5
+        dd: 2.0
+      }
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.3
+      color: 1298283903
+      dashdot {
+        dd: 4.0
+        dd: 2.5
+      }
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.6
+      color: 1298283903
+      dashdot {
+        dd: 4.0
+        dd: 2.5
+      }
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 15
+    lines {
+      width: 2.0
+      color: 1298283903
+      dashdot {
+        dd: 6.0
+        dd: 3.5
+      }
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 9
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 16
+    lines {
+      width: 2.6
+      color: 1298283903
+      dashdot {
+        dd: 6.0
+        dd: 3.5
+      }
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 10
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 17
+    lines {
+      width: 3.3
+      color: 1298283903
+      dashdot {
+        dd: 8.0
+        dd: 4.5
+      }
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 10
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 18
+    lines {
+      width: 4.0
+      color: 1298283903
+      dashdot {
+        dd: 8.0
+        dd: 4.5
+      }
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 19
+    lines {
+      width: 4.0
+      color: 1298283903
+      dashdot {
+        dd: 8.0
+        dd: 4.5
+      }
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 20
+    lines {
+      width: 4.0
+      color: 1298283903
+      dashdot {
+        dd: 8.0
+        dd: 4.5
+      }
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
     }
   }
 }
 cont {
   name: "piste:type-nordic"
   element {
-    scale: 14
+    scale: 12
     lines {
       width: 0.8
       color: 1717714303
       priority: 120
+      join: BEVELJOIN
       cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.0
+      color: 1298283903
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.2
+      color: 862076287
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
     }
   }
   element {
     scale: 15
     lines {
-      width: 1.1
+      width: 1.4
+      color: 862076287
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 9
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 16
+    lines {
+      width: 1.6
+      color: 862076287
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 10
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 17
+    lines {
+      width: 1.9
+      color: 862076287
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 10
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 18
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 19
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 20
+    lines {
+      width: 2.3
+      color: 862076287
+      priority: 120
+    }
+    path_text {
+      primary {
+        height: 12
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-skitour"
+  element {
+    scale: 12
+    lines {
+      width: 0.8
+      color: 1717714303
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.0
+      color: 1298283903
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 14
+    lines {
+      width: 1.2
+      color: 1717714303
+      priority: 120
+      cap: BUTTCAP
+    }
+    path_text {
+      primary {
+        height: 8
+        color: 7829367
+        stroke_color: 856756480
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 15
+    lines {
+      width: 1.4
       color: 1717714303
       priority: 120
       cap: BUTTCAP
@@ -65875,100 +66773,119 @@ cont {
     path_text {
       primary {
         height: 9
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
+      width: 1.6
       color: 1717714303
       priority: 120
     }
     path_text {
       primary {
         height: 10
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
+      width: 1.9
       color: 1717714303
       priority: 120
     }
     path_text {
       primary {
         height: 10
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
+      width: 2.3
       color: 1717714303
       priority: 120
     }
     path_text {
       primary {
         height: 12
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
+      width: 2.3
       color: 1717714303
       priority: 120
     }
     path_text {
       primary {
         height: 12
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
+      width: 2.3
       color: 1717714303
       priority: 120
     }
     path_text {
       primary {
         height: 12
-        color: 8947848
-        stroke_color: 1292964096
+        color: 7829367
+        stroke_color: 856756480
       }
-      priority: 2950
+      priority: 2770
     }
   }
 }
 cont {
   name: "piste:type-sled"
   element {
+    scale: 12
+    lines {
+      width: 1.0
+      color: 2573352319
+      priority: 120
+      join: BEVELJOIN
+      cap: BUTTCAP
+    }
+  }
+  element {
+    scale: 13
+    lines {
+      width: 1.4
+      color: 3009559935
+      priority: 120
+      cap: BUTTCAP
+    }
+  }
+  element {
     scale: 14
     lines {
-      width: 0.8
-      color: 1717714303
+      width: 1.4
+      color: 3009559935
       priority: 120
       cap: BUTTCAP
     }
@@ -65976,8 +66893,8 @@ cont {
   element {
     scale: 15
     lines {
-      width: 1.1
-      color: 1717714303
+      width: 2.2
+      color: 3009559935
       priority: 120
       cap: BUTTCAP
     }
@@ -65987,14 +66904,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 16
     lines {
-      width: 1.1
-      color: 1717714303
+      width: 2.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -66003,14 +66920,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 17
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -66019,14 +66936,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 18
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -66035,14 +66952,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 19
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -66051,14 +66968,14 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
     }
   }
   element {
     scale: 20
     lines {
-      width: 1.5
-      color: 1717714303
+      width: 3.2
+      color: 3009559935
       priority: 120
     }
     path_text {
@@ -66067,7 +66984,173 @@ cont {
         color: 8947848
         stroke_color: 1292964096
       }
-      priority: 2950
+      priority: 2770
+    }
+  }
+}
+cont {
+  name: "piste:type-sled-area"
+  element {
+    scale: 13
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+}
+cont {
+  name: "piste:type-snow_park"
+  element {
+    scale: 13
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 14
+    area {
+      color: 3647094143
+      priority: 15
+    }
+  }
+  element {
+    scale: 15
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 9
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 16
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 10
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 17
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 10
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 18
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 12
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 19
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 12
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
+    }
+  }
+  element {
+    scale: 20
+    area {
+      color: 3647094143
+      priority: 15
+    }
+    caption {
+      primary {
+        height: 12
+        color: 8947848
+        stroke_color: 1292964096
+      }
+      priority: 2770
     }
   }
 }
