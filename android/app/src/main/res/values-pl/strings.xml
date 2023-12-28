@@ -1166,6 +1166,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Ścieżka</string>
 	<string name="type.highway.footway.hiking">Ścieżka</string>
 	<string name="type.highway.footway.mountain_hiking">Ścieżka</string>
+	<string name="type.highway.footway.permissive">Chodnik</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Tunel dla pieszych</string>
 	<string name="type.highway.ford">Bród</string>
@@ -1479,6 +1480,7 @@
 	<string name="type.natural.scrub">Zarośla</string>
 	<string name="type.natural.spring">Źródło</string>
 	<string name="type.natural.strait">Cieśnina</string>
+	<string name="type.natural.tree">Drzewo</string>
 	<string name="type.natural.tree_row">Rząd drzew</string>
 	<string name="type.natural.vineyard">Winnica</string>
 	<string name="type.natural.volcano">Wulkan</string>
@@ -1539,6 +1541,7 @@
 	<string name="type.power.plant.hydro">Elektrownia wodna</string>
 	<string name="type.power.plant.solar">Elektrownia słoneczna</string>
 	<string name="type.power.plant.wind">Elektrownia wiatrowa</string>
+	<string name="type.power.pole">Słup elektryczny</string>
 	<string name="type.power.station">Elektrownia</string>
 	<string name="type.power.substation">Podstacja</string>
 	<string name="type.power.tower">Słup elektryczny</string>
@@ -2027,6 +2030,10 @@
 	<string name="type.wheelchair.limited">Częściowo wyposażono dla osób niepełnosprawnych</string>
 	<string name="type.wheelchair.no">Nie wyposażono dla osób niepełnosprawnych</string>
 	<string name="type.wheelchair.yes">Wyposażono dla osób niepełnosprawnych</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Śnieżny szlak turystyczny</string>
+	<string name="type.piste_type.connection">Piste Connection</string>
+	<string name="type.piste_type.skitour">Szlak Skitour</string>
 	<string name="type.amenity.events_venue">Sala bankietowa</string>
 	<string name="type.shop.auction">Dom aukcyjny</string>
 	<string name="type.shop.collector">Przedmioty kolekcjonerskie</string>

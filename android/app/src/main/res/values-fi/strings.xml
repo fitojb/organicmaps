@@ -1158,6 +1158,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Vaikea alppivaellus</string>
 	<string name="type.highway.footway.hiking">Vaellus</string>
 	<string name="type.highway.footway.mountain_hiking">Vuoristovaellus</string>
+	<string name="type.highway.footway.permissive">Polku</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Jalankulkutunneli</string>
 	<string name="type.highway.ford">Kahluupaikka</string>
@@ -1452,6 +1453,7 @@
 	<string name="type.natural.scrub">Tiheiköt</string>
 	<string name="type.natural.spring">Lähde</string>
 	<string name="type.natural.strait">Salmi</string>
+	<string name="type.natural.tree">Puu</string>
 	<string name="type.natural.tree_row">Puurivi</string>
 	<string name="type.natural.vineyard">Viinitila</string>
 	<string name="type.natural.volcano">Tulivuori</string>
@@ -1508,6 +1510,7 @@
 	<string name="type.power.plant.hydro">Vesivoimalaitos</string>
 	<string name="type.power.plant.solar">Aurinkovoimala</string>
 	<string name="type.power.plant.wind">Tuulivoimala</string>
+	<string name="type.power.pole">Sähköpylväs</string>
 	<string name="type.power.substation">Muuntoasema</string>
 	<string name="type.power.tower">Sähköpylväs</string>
 	<string name="type.railway.funicular">Köysirata</string>
@@ -1983,14 +1986,25 @@
 	<string name="type.aerialway.rope_tow">Naruhissi</string>
 	<string name="type.aerialway.t.bar">Ankkurihissi</string>
 	<string name="type.piste_type.downhill">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.area">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.advanced">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.advanced.area">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.easy">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.easy.area">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.expert">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.expert.area">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.freeride">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.intermediate">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.intermediate.area">Laskettelurinne</string>
 	<string name="type.piste_type.downhill.novice">Laskettelurinne</string>
+	<string name="type.piste_type.downhill.novice.area">Laskettelurinne</string>
 	<string name="type.piste_type.nordic">Latu</string>
 	<string name="type.piste_type.sled">Kelkkarata</string>
+	<string name="type.piste_type.sled.area">Kelkkarata</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Lumi vaellusreitti</string>
+	<string name="type.piste_type.connection">Pisteen yhteys</string>
+	<string name="type.piste_type.skitour">Skitour Trail</string>
 	<string name="type.amenity.events_venue">Tapahtumapaikka</string>
 	<string name="type.shop.auction">Huutokauppa</string>
 	<string name="type.shop.collector">Keräilyesineet</string>

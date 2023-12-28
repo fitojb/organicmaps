@@ -1047,6 +1047,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Gångväg</string>
 	<string name="type.highway.footway.hiking">Gångväg</string>
 	<string name="type.highway.footway.mountain_hiking">Gångväg</string>
+	<string name="type.highway.footway.permissive">Gångväg</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Tunnel</string>
 	<string name="type.highway.ford">Vadställe</string>
@@ -1313,6 +1314,7 @@
 	<string name="type.natural.scrub">Ruggen</string>
 	<string name="type.natural.spring">Vattenkälla</string>
 	<string name="type.natural.strait">Sund</string>
+	<string name="type.natural.tree">Träd</string>
 	<string name="type.natural.tree_row">Trädrad</string>
 	<string name="type.natural.vineyard">Vingård</string>
 	<string name="type.natural.volcano">Vulkan</string>
@@ -1369,6 +1371,7 @@
 	<string name="type.power.plant.hydro">Vattenkraftverk</string>
 	<string name="type.power.plant.solar">Solkraftverk</string>
 	<string name="type.power.plant.wind">Vindkraftverk</string>
+	<string name="type.power.pole">Elstolpe</string>
 	<string name="type.power.substation">Ställverk</string>
 	<string name="type.power.tower">Elstolpe</string>
 	<string name="type.railway.funicular">Linbana</string>
@@ -1827,6 +1830,10 @@
 	<string name="type.wheelchair.limited">Delvis utrustad för handikappade</string>
 	<string name="type.wheelchair.no">Ej utrustad för handikappade</string>
 	<string name="type.wheelchair.yes">Utrustad för handikappade</string>
+	<string name="type.piste_type.snow_park">Snöparken</string>
+	<string name="type.piste_type.hike">Vandringsled i snö</string>
+	<string name="type.piste_type.connection">Piste Anslutning</string>
+	<string name="type.piste_type.skitour">Skitourleden</string>
 	<string name="type.amenity.events_venue">Evenemangslokal</string>
 	<string name="type.shop.auction">Auktion</string>
 	<string name="type.shop.collector">Samlingsföremål</string>

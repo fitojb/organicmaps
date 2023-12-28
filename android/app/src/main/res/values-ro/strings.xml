@@ -1068,6 +1068,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Cale</string>
 	<string name="type.highway.footway.hiking">Cale</string>
 	<string name="type.highway.footway.mountain_hiking">Cale</string>
+	<string name="type.highway.footway.permissive">Cale</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Tunel</string>
 	<string name="type.highway.ford">Superficial</string>
@@ -1335,6 +1336,7 @@
 	<string name="type.natural.scrub">Boschet</string>
 	<string name="type.natural.spring">Izvor</string>
 	<string name="type.natural.strait">Strâmtoare</string>
+	<string name="type.natural.tree">Arbore</string>
 	<string name="type.natural.tree_row">Rândul de copaci</string>
 	<string name="type.natural.vineyard">Vie</string>
 	<string name="type.natural.volcano">Vulcan</string>
@@ -1391,6 +1393,7 @@
 	<string name="type.power.plant.hydro">Centrală hidroelectrică</string>
 	<string name="type.power.plant.solar">Centrală solară</string>
 	<string name="type.power.plant.wind">Centrală eoliană</string>
+	<string name="type.power.pole">Stâlp de electricitate</string>
 	<string name="type.power.substation">Stație subterană</string>
 	<string name="type.power.tower">Stâlp de electricitate</string>
 	<string name="type.railway.funicular">Funicular</string>
@@ -1847,6 +1850,10 @@
 	<string name="type.wheelchair.limited">Parțial utilat pentru invalizi</string>
 	<string name="type.wheelchair.no">Nu este utilat pentru invalizi</string>
 	<string name="type.wheelchair.yes">Utilat pentru invalizi</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Zăpadă Hiking Trail</string>
+	<string name="type.piste_type.connection">Conexiune Piste</string>
+	<string name="type.piste_type.skitour">Traseul Skitour</string>
 	<string name="type.amenity.events_venue">Locul de desfășurare a evenimentelor</string>
 	<string name="type.shop.auction">Licitație</string>
 	<string name="type.shop.collector">Colecții</string>

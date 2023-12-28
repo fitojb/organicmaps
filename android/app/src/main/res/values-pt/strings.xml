@@ -1115,6 +1115,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Caminho pedonal</string>
 	<string name="type.highway.footway.hiking">Caminho pedonal</string>
 	<string name="type.highway.footway.mountain_hiking">Caminho pedonal</string>
+	<string name="type.highway.footway.permissive">Caminho pedonal</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Túnel</string>
 	<string name="type.highway.ford">Vau</string>
@@ -1431,6 +1432,7 @@
 	<string name="type.natural.scrub">Matagal</string>
 	<string name="type.natural.spring">Nascente</string>
 	<string name="type.natural.strait">Estreito</string>
+	<string name="type.natural.tree">Árvore</string>
 	<string name="type.natural.tree_row">Linha de árvores</string>
 	<string name="type.natural.vineyard">Vinha</string>
 	<string name="type.natural.volcano">Vulcão</string>
@@ -1495,6 +1497,7 @@
 	<string name="type.power.plant.hydro">Usina hidrelétrica</string>
 	<string name="type.power.plant.solar">Planta de energia solar</string>
 	<string name="type.power.plant.wind">Usina de energia eólica</string>
+	<string name="type.power.pole">Poste de eletricidade</string>
 	<string name="type.power.station">Subestação elétrica</string>
 	<string name="type.power.substation">Subestação elétrica</string>
 	<string name="type.power.tower">Torre de eletricidade</string>
@@ -2009,16 +2012,26 @@
 	<string name="type.aerialway.platter">Telesqui de disco</string>
 	<string name="type.aerialway.rope_tow">Telesqui de corda</string>
 	<string name="type.aerialway.t.bar">Telesqui de barra em T</string>
-	<string name="type.piste_type">Tipo de pista</string>
 	<string name="type.piste_type.downhill">Esqui alpino</string>
+	<string name="type.piste_type.downhill.area">Esqui alpino</string>
 	<string name="type.piste_type.downhill.advanced">Esqui alpino avançado</string>
+	<string name="type.piste_type.downhill.advanced.area">Esqui alpino avançado</string>
 	<string name="type.piste_type.downhill.easy">Esqui alpino fácil</string>
+	<string name="type.piste_type.downhill.easy.area">Esqui alpino fácil</string>
 	<string name="type.piste_type.downhill.expert">Esqui alpino avançado</string>
+	<string name="type.piste_type.downhill.expert.area">Esqui alpino avançado</string>
 	<string name="type.piste_type.downhill.freeride">Esqui alpino livre</string>
 	<string name="type.piste_type.downhill.intermediate">Esqui alpino intermédio</string>
+	<string name="type.piste_type.downhill.intermediate.area">Esqui alpino intermédio</string>
 	<string name="type.piste_type.downhill.novice">Esqui alpino iniciante</string>
+	<string name="type.piste_type.downhill.novice.area">Esqui alpino iniciante</string>
 	<string name="type.piste_type.nordic">Pista tipo nórdico</string>
 	<string name="type.piste_type.sled">Pista para trenós</string>
+	<string name="type.piste_type.sled.area">Pista para trenós</string>
+	<string name="type.piste_type.snow_park">Parque de neve</string>
+	<string name="type.piste_type.hike">Trilho para caminhadas na neve</string>
+	<string name="type.piste_type.connection">Ligação às pistas</string>
+	<string name="type.piste_type.skitour">Trilha Skitour</string>
 	<string name="type.amenity.events_venue">Local dos eventos</string>
 	<string name="type.shop.auction">Leilão</string>
 	<string name="type.shop.collector">Objectos de colecção</string>

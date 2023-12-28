@@ -2031,6 +2031,8 @@
 
 "type.highway.footway.mountain_hiking" = "Gångväg";
 
+"type.highway.footway.permissive" = "Gångväg";
+
 /* These translations are used for all type.highway.*.tunnel. */
 "type.highway.footway.tunnel" = "Tunnel";
 
@@ -2672,6 +2674,8 @@
 
 "type.natural.strait" = "Sund";
 
+"type.natural.tree" = "Träd";
+
 "type.natural.tree_row" = "Trädrad";
 
 "type.natural.vineyard" = "Vingård";
@@ -2799,6 +2803,8 @@
 "type.power.plant.solar" = "Solkraftverk";
 
 "type.power.plant.wind" = "Vindkraftverk";
+
+"type.power.pole" = "Elstolpe";
 
 "type.power.station" = "Power Station";
 
@@ -3837,25 +3843,45 @@
 
 "type.aerialway.t.bar" = "T-bar Lift";
 
-"type.piste_type" = "Piste Type";
-
 "type.piste_type.downhill" = "Downhill Ski Run";
+
+"type.piste_type.downhill.area" = "Downhill Ski Run";
 
 "type.piste_type.downhill.advanced" = "Downhill Ski Run";
 
+"type.piste_type.downhill.advanced.area" = "Downhill Ski Run";
+
 "type.piste_type.downhill.easy" = "Downhill Ski Run";
 
+"type.piste_type.downhill.easy.area" = "Downhill Ski Run";
+
 "type.piste_type.downhill.expert" = "Downhill Ski Run";
+
+"type.piste_type.downhill.expert.area" = "Downhill Ski Run";
 
 "type.piste_type.downhill.freeride" = "Downhill Ski Run";
 
 "type.piste_type.downhill.intermediate" = "Downhill Ski Run";
 
+"type.piste_type.downhill.intermediate.area" = "Downhill Ski Run";
+
 "type.piste_type.downhill.novice" = "Downhill Ski Run";
+
+"type.piste_type.downhill.novice.area" = "Downhill Ski Run";
 
 "type.piste_type.nordic" = "Nordic Ski Trail";
 
 "type.piste_type.sled" = "Sledding Piste";
+
+"type.piste_type.sled.area" = "Sledding Piste";
+
+"type.piste_type.snow_park" = "Snöparken";
+
+"type.piste_type.hike" = "Vandringsled i snö";
+
+"type.piste_type.connection" = "Piste Anslutning";
+
+"type.piste_type.skitour" = "Skitourleden";
 
 "type.amenity.events_venue" = "Evenemangslokal";
 

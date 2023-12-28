@@ -1179,6 +1179,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Тропа</string>
 	<string name="type.highway.footway.hiking">Тропа</string>
 	<string name="type.highway.footway.mountain_hiking">Тропа</string>
+	<string name="type.highway.footway.permissive">Пешеходная дорожка</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Пешеходный тоннель</string>
 	<string name="type.highway.ford">Брод</string>
@@ -1504,6 +1505,7 @@
 	<string name="type.natural.scrub">Заросли</string>
 	<string name="type.natural.spring">Родник</string>
 	<string name="type.natural.strait">Пролив</string>
+	<string name="type.natural.tree">Дерево</string>
 	<string name="type.natural.tree_row">Ряд деревьев</string>
 	<string name="type.natural.vineyard">Виноградник</string>
 	<string name="type.natural.volcano">Вулкан</string>
@@ -1568,6 +1570,7 @@
 	<string name="type.power.plant.hydro">Гидроэлектростанция</string>
 	<string name="type.power.plant.solar">Солнечная электростанция</string>
 	<string name="type.power.plant.wind">Ветряная электростанция</string>
+	<string name="type.power.pole">Опора ЛЭП</string>
 	<string name="type.power.station">Электростанция</string>
 	<string name="type.power.substation">Подстанция</string>
 	<string name="type.power.tower">Опора ЛЭП</string>
@@ -2088,16 +2091,26 @@
 	<string name="type.aerialway.platter">Бугельный подъёмник</string>
 	<string name="type.aerialway.rope_tow">Бугельный подъёмник</string>
 	<string name="type.aerialway.t.bar">Бугельный подъёмник</string>
-	<string name="type.piste_type">Тип трассы</string>
 	<string name="type.piste_type.downhill">Горнолыжная трасса</string>
+	<string name="type.piste_type.downhill.area">Горнолыжная трасса</string>
 	<string name="type.piste_type.downhill.advanced">Продвинутая горнолыжная трасса</string>
+	<string name="type.piste_type.downhill.advanced.area">Продвинутая горнолыжная трасса</string>
 	<string name="type.piste_type.downhill.easy">Лёгкая горнолыжная трасса</string>
+	<string name="type.piste_type.downhill.easy.area">Лёгкая горнолыжная трасса</string>
 	<string name="type.piste_type.downhill.expert">Горнолыжная трасса для экспертов</string>
+	<string name="type.piste_type.downhill.expert.area">Горнолыжная трасса для экспертов</string>
 	<string name="type.piste_type.downhill.freeride">Горнолыжная трасса для фрирайда</string>
 	<string name="type.piste_type.downhill.intermediate">Горнолыжная трасса средней сложности</string>
+	<string name="type.piste_type.downhill.intermediate.area">Горнолыжная трасса средней сложности</string>
 	<string name="type.piste_type.downhill.novice">Горнолыжная трасса для новичков</string>
+	<string name="type.piste_type.downhill.novice.area">Горнолыжная трасса для новичков</string>
 	<string name="type.piste_type.nordic">Лыжня</string>
 	<string name="type.piste_type.sled">Трасса для саней</string>
+	<string name="type.piste_type.sled.area">Трасса для саней</string>
+	<string name="type.piste_type.snow_park">Снежный парк</string>
+	<string name="type.piste_type.hike">Зимняя тропа</string>
+	<string name="type.piste_type.connection">Соединение между трассами</string>
+	<string name="type.piste_type.skitour">Маршрут для скитура</string>
 	<string name="type.amenity.events_venue">Место проведения мероприятий</string>
 	<string name="type.shop.auction">Аукцион</string>
 	<string name="type.shop.collector">Коллекции</string>

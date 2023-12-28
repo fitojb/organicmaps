@@ -668,6 +668,7 @@
 	<string name="type.natural.scrub">בתה</string>
 	<string name="type.natural.spring">מעיין</string>
 	<string name="type.natural.strait">מצר ים</string>
+	<string name="type.natural.tree">עץ</string>
 	<string name="type.natural.tree_row">שורת עצים</string>
 	<string name="type.natural.vineyard">כרם</string>
 	<string name="type.natural.volcano">הר געש</string>
@@ -836,6 +837,10 @@
 	<string name="type.natural.water.ditch">תעלת ניקוז</string>
 	<string name="type.waterway.ditch.tunnel">גִשׁרוֹן</string>
 	<string name="type.waterway.drain.tunnel">גִשׁרוֹן</string>
+	<string name="type.piste_type.snow_park">פארק שלג</string>
+	<string name="type.piste_type.hike">מסלול טיולי שלג</string>
+	<string name="type.piste_type.connection">חיבור למסלולים</string>
+	<string name="type.piste_type.skitour">שביל סקי</string>
 	<string name="type.amenity.events_venue">מקום אירועים</string>
 	<string name="type.shop.auction">מכירה פומבית</string>
 	<string name="type.shop.collector">פריטי אספנות</string>

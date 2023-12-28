@@ -1050,6 +1050,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Διαδρομή</string>
 	<string name="type.highway.footway.hiking">Διαδρομή</string>
 	<string name="type.highway.footway.mountain_hiking">Διαδρομή</string>
+	<string name="type.highway.footway.permissive">Διαδρομή</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Σήραγγα</string>
 	<string name="type.highway.ford">Πέρασμα</string>
@@ -1321,6 +1322,7 @@
 	<string name="type.natural.scrub">Θαμνώδες περιοχή</string>
 	<string name="type.natural.spring">Πηγή νερού</string>
 	<string name="type.natural.strait">Πορθμός</string>
+	<string name="type.natural.tree">Δέντρο</string>
 	<string name="type.natural.tree_row">Σειρά δέντρων</string>
 	<string name="type.natural.vineyard">Αμπελώνας</string>
 	<string name="type.natural.volcano">Ηφαίστειο</string>
@@ -1377,6 +1379,7 @@
 	<string name="type.power.plant.hydro">Υδροηλεκτρικό εργοστάσιο</string>
 	<string name="type.power.plant.solar">Ηλιακός σταθμός παραγωγής ενέργειας</string>
 	<string name="type.power.plant.wind">Αιολική μονάδα παραγωγής ενέργειας</string>
+	<string name="type.power.pole">Πυλώνες μεταφοράς ρεύματος</string>
 	<string name="type.power.substation">Υποσταθμός</string>
 	<string name="type.power.tower">Πυλώνες μεταφοράς ρεύματος</string>
 	<string name="type.railway.funicular">Μονωτικό τρενάκι</string>
@@ -1840,6 +1843,10 @@
 	<string name="type.wheelchair.limited">Μερικώς εξοπλισμένο για άτομα με ειδικές ανάγκες</string>
 	<string name="type.wheelchair.no">Δεν υπάρχει πρόβλεψη για άτομα με ειδικές ανάγκες</string>
 	<string name="type.wheelchair.yes">Εξοπλισμένο για άτομα με ειδικές ανάγκες</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Μονοπάτι πεζοπορίας χιονιού</string>
+	<string name="type.piste_type.connection">Σύνδεση πίστας</string>
+	<string name="type.piste_type.skitour">Μονοπάτι Skitour</string>
 	<string name="type.amenity.events_venue">Κέντρο εκδηλώσεων</string>
 	<string name="type.shop.auction">Δημοπρασία</string>
 	<string name="type.shop.collector">Συλλεκτικά αντικείμενα</string>

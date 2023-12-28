@@ -1090,6 +1090,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">人行步道</string>
 	<string name="type.highway.footway.hiking">人行步道</string>
 	<string name="type.highway.footway.mountain_hiking">人行步道</string>
+	<string name="type.highway.footway.permissive">人行步道</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">隧道</string>
 	<string name="type.highway.ford">淺灘</string>
@@ -1362,6 +1363,7 @@
 	<string name="type.natural.scrub">叢林</string>
 	<string name="type.natural.spring">泉水</string>
 	<string name="type.natural.strait">海峽</string>
+	<string name="type.natural.tree">樹</string>
 	<string name="type.natural.tree_row">樹列</string>
 	<string name="type.natural.vineyard">葡萄園</string>
 	<string name="type.natural.volcano">火山</string>
@@ -1418,6 +1420,7 @@
 	<string name="type.power.plant.hydro">水力發電廠</string>
 	<string name="type.power.plant.solar">太陽能發電廠</string>
 	<string name="type.power.plant.wind">風力發電廠</string>
+	<string name="type.power.pole">電塔</string>
 	<string name="type.power.substation">變電所</string>
 	<string name="type.power.tower">電塔</string>
 	<string name="type.railway.funicular">纜車</string>
@@ -1889,6 +1892,10 @@
 	<string name="type.wheelchair.limited">部分配備為殘疾人專用</string>
 	<string name="type.wheelchair.no">未配備殘疾人專用</string>
 	<string name="type.wheelchair.yes">配備殘疾人專用</string>
+	<string name="type.piste_type.snow_park">冰雪公園</string>
+	<string name="type.piste_type.hike">雪地健行路線</string>
+	<string name="type.piste_type.connection">滑雪道連接</string>
+	<string name="type.piste_type.skitour">滑雪旅遊路線</string>
 	<string name="type.amenity.events_venue">活動場所</string>
 	<string name="type.shop.auction">拍賣</string>
 	<string name="type.shop.collector">收藏品</string>

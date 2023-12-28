@@ -1071,6 +1071,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Ösvény</string>
 	<string name="type.highway.footway.hiking">Ösvény</string>
 	<string name="type.highway.footway.mountain_hiking">Ösvény</string>
+	<string name="type.highway.footway.permissive">Ösvény</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Alagút</string>
 	<string name="type.highway.ford">Gázló</string>
@@ -1338,6 +1339,7 @@
 	<string name="type.natural.scrub">Cserjés</string>
 	<string name="type.natural.spring">Forrás</string>
 	<string name="type.natural.strait">Szoros</string>
+	<string name="type.natural.tree">Fa</string>
 	<string name="type.natural.tree_row">Fa sor</string>
 	<string name="type.natural.vineyard">Szőlőskert</string>
 	<string name="type.natural.volcano">Tűzhányó</string>
@@ -1394,6 +1396,7 @@
 	<string name="type.power.plant.hydro">Vízerőmű</string>
 	<string name="type.power.plant.solar">Naperőmű</string>
 	<string name="type.power.plant.wind">Szélerőmű</string>
+	<string name="type.power.pole">Villanyoszlop</string>
 	<string name="type.power.substation">Kapcsolószekrény</string>
 	<string name="type.power.tower">Villanyoszlop</string>
 	<string name="type.railway.funicular">Funicular</string>
@@ -1856,6 +1859,10 @@
 	<string name="type.wheelchair.limited">Korlátozottan akadálymentesített</string>
 	<string name="type.wheelchair.no">Nem akadálymentesített</string>
 	<string name="type.wheelchair.yes">Teljesen akadálymentesített</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Hó túraútvonal</string>
+	<string name="type.piste_type.connection">Pálya kapcsolat</string>
+	<string name="type.piste_type.skitour">Skitúra ösvény</string>
 	<string name="type.amenity.events_venue">Rendezvények helyszíne</string>
 	<string name="type.shop.auction">Aukció</string>
 	<string name="type.shop.collector">Gyűjthető tárgyak</string>

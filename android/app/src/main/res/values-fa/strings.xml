@@ -967,6 +967,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">مسیر</string>
 	<string name="type.highway.footway.hiking">مسیر</string>
 	<string name="type.highway.footway.mountain_hiking">مسیر</string>
+	<string name="type.highway.footway.permissive">مسیر</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">تونل</string>
 	<string name="type.highway.ford">گدار</string>
@@ -1235,6 +1236,7 @@
 	<string name="type.natural.scrub">بوته زار</string>
 	<string name="type.natural.spring">چشمه</string>
 	<string name="type.natural.strait">تنگه</string>
+	<string name="type.natural.tree">درخت</string>
 	<string name="type.natural.tree_row">ردیف درخت</string>
 	<string name="type.natural.vineyard">تاکستان</string>
 	<string name="type.natural.volcano">اتشفشان</string>
@@ -1291,6 +1293,7 @@
 	<string name="type.power.plant.hydro">نیروگاه برق آبی</string>
 	<string name="type.power.plant.solar">نیروگاه خورشیدی</string>
 	<string name="type.power.plant.wind">نیروگاه بادی</string>
+	<string name="type.power.pole">برج قدرت</string>
 	<string name="type.power.tower">برج قدرت</string>
 	<string name="type.railway.funicular">فونیکولور</string>
 	<string name="type.railway.halt">ایستگاه قطار</string>
@@ -1752,6 +1755,10 @@
 	<string name="type.wheelchair.limited">دسترسی محدود با صندلی چرخ دار</string>
 	<string name="type.wheelchair.no">بدون دسترسی با صندلی چرخ دار</string>
 	<string name="type.wheelchair.yes">دسترسی کامل با صندلی چرخ دار</string>
+	<string name="type.piste_type.snow_park">پارک برفی</string>
+	<string name="type.piste_type.hike">مسیر پیاده روی برفی</string>
+	<string name="type.piste_type.connection">اتصال پیست</string>
+	<string name="type.piste_type.skitour">مسیر اسکیتور</string>
 	<string name="type.amenity.events_venue">محل برگزاری رویدادها</string>
 	<string name="type.shop.auction">حراج</string>
 	<string name="type.shop.collector">کلکسیونی ها</string>

@@ -1175,6 +1175,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">مسار</string>
 	<string name="type.highway.footway.hiking">مسار</string>
 	<string name="type.highway.footway.mountain_hiking">مسار</string>
+	<string name="type.highway.footway.permissive">مسار للمشاة</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">نفق للمشاة</string>
 	<string name="type.highway.ford">مخاضة</string>
@@ -1479,6 +1480,7 @@
 	<string name="type.natural.scrub">أَيْكَة</string>
 	<string name="type.natural.spring">ينبوع</string>
 	<string name="type.natural.strait">مضيق</string>
+	<string name="type.natural.tree">شجرة</string>
 	<string name="type.natural.tree_row">صف شجر</string>
 	<string name="type.natural.vineyard">حقل عنب</string>
 	<string name="type.natural.volcano">بركان</string>
@@ -1535,6 +1537,7 @@
 	<string name="type.power.plant.hydro">محطة توليد الطاقة الكهرمائية</string>
 	<string name="type.power.plant.solar">محطة طاقة شمسية</string>
 	<string name="type.power.plant.wind">محطة طاقة الرياح</string>
+	<string name="type.power.pole">عمود كهرباء</string>
 	<string name="type.power.substation">محطة كهرباء فرعية</string>
 	<string name="type.power.tower">عمود كهرباء</string>
 	<string name="type.railway.funicular">حبلي</string>
@@ -2007,6 +2010,10 @@
 	<string name="type.wheelchair.limited">دعم محدود للكراسي المتحركة</string>
 	<string name="type.wheelchair.no">لا دعم للكراسي المتحركة</string>
 	<string name="type.wheelchair.yes">دعم كامل للكراسي المتحركة</string>
+	<string name="type.piste_type.snow_park">حديقة الثلج</string>
+	<string name="type.piste_type.hike">مسار المشي على الجليد</string>
+	<string name="type.piste_type.connection">اتصال الزحلقة</string>
+	<string name="type.piste_type.skitour">مسار سكيتور</string>
 	<string name="type.amenity.events_venue">مكان الأحداث</string>
 	<string name="type.shop.auction">مزاد علني</string>
 	<string name="type.shop.collector">مقتنيات</string>

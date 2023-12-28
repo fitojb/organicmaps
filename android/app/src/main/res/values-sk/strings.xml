@@ -1047,6 +1047,7 @@
 	<string name="type.highway.footway.difficult_alpine_hiking">Cesta</string>
 	<string name="type.highway.footway.hiking">Cesta</string>
 	<string name="type.highway.footway.mountain_hiking">Cesta</string>
+	<string name="type.highway.footway.permissive">Cesta</string>
 	<!-- These translations are used for all type.highway.*.tunnel. -->
 	<string name="type.highway.footway.tunnel">Tunel</string>
 	<string name="type.highway.ford">Brod</string>
@@ -1313,6 +1314,7 @@
 	<string name="type.natural.scrub">Krovie</string>
 	<string name="type.natural.spring">Prameň</string>
 	<string name="type.natural.strait">Prieliv</string>
+	<string name="type.natural.tree">Strom</string>
 	<string name="type.natural.tree_row">Stromový rad</string>
 	<string name="type.natural.vineyard">Vinohrad</string>
 	<string name="type.natural.volcano">Vulkán</string>
@@ -1369,6 +1371,7 @@
 	<string name="type.power.plant.hydro">Vodná elektráreň</string>
 	<string name="type.power.plant.solar">Solárna elektráreň</string>
 	<string name="type.power.plant.wind">Veterná elektráreň</string>
+	<string name="type.power.pole">Stĺp elektrického vedenia</string>
 	<string name="type.power.substation">Rozvodňa</string>
 	<string name="type.power.tower">Stĺp elektrického vedenia</string>
 	<string name="type.railway.funicular">Lanovka</string>
@@ -1824,6 +1827,10 @@
 	<string name="type.wheelchair.limited">Obmedzený bezbariérový prístup</string>
 	<string name="type.wheelchair.no">Žiaden bezbariérový prístup</string>
 	<string name="type.wheelchair.yes">Úplný bezbariérový prístup</string>
+	<string name="type.piste_type.snow_park">Snow Park</string>
+	<string name="type.piste_type.hike">Snehová turistická trasa</string>
+	<string name="type.piste_type.connection">Pripojenie na zjazdovku</string>
+	<string name="type.piste_type.skitour">Trasa Skitour</string>
 	<string name="type.amenity.events_venue">Miesto konania podujatí</string>
 	<string name="type.shop.auction">Aukcia</string>
 	<string name="type.shop.collector">Zberateľské predmety</string>
